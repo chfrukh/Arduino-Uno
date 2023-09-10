@@ -4,7 +4,8 @@
 
 This Arduino Uno project demonstrates how to use an HC-SR04 ultrasonic sensor to measure distances and provide feedback using an LED. The project calculates distances in centimeters, inches, and feet and performs different actions based on the measured distance.
 
-**View the Project in Tinkercad:** https://www.tinkercad.com/things/ii86fCvunSf
+**View the Project in Tinkercad:**[Blind Person Indication
+](https://www.tinkercad.com/things/ii86fCvunSf).
 
 ## Table of Contents
 
@@ -73,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project uses the [NewPing Library](https://github.com/teckel12/Arduino-NewPing) by Tim Eckel for the HC-SR04 sensor.
-- Developed by [Your Name](https://github.com/chfrukh).
+- Developed by [Ch Farrukh Rafique](https://github.com/chfrukh).
 
 Feel free to adapt this markdown file for your specific Arduino Uno project and include your Tinkercad project link. This allows others to easily access and interact with your project in Tinkercad.
