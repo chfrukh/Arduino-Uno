@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Developed by [Your Name](https://github.com/chfarrukh).
+- Developed by [Ch Farrukh Rafique](https://github.com/chfarrukh).
 
 Feel free to adapt this markdown file for your specific Arduino Uno project and include your Tinkercad project link. This allows others to easily access and interact with your project in Tinkercad.
